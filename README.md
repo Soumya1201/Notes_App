@@ -6,7 +6,7 @@ A full-stack Notes application built with the MERN stack, featuring rate limitin
 
 ##  Live Demo
 
- https://notes-app-5wpj.onrender.com
+ https://notes-app-stjo.onrender.com/
 
 ---
 
